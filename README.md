@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niwanaf
+- 👋 Hi, I’m @Niwanaf or Naf
 - 👀 I’m newbie in coding
 - 🌱 I’m currently learning C++
 
