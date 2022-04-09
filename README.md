@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niwanaf or Naf
 - 👀 I’m newbie in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and JavaScript
 
 <!---
 Niwanaf/Niwanaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
