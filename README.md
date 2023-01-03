@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Niwanaf 
+- 🛩️I'm currently learning C++, HTML, CSS, Javascript, PHP, Java.
 
 
 <!---
