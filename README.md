@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Niwanaf 
-- 🛩️I'm currently learning C++, HTML, CSS, Javascript, PHP, Java and MySQL.
+- 👋 Hi, I’m Nafis Ihsan Wiguna 
+- 🛩️I'm currently learning Kotlin and Android Development.
 
 
 <p align="left">
